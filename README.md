@@ -1,2 +1,3 @@
 # for_GitHub_actiions
-Tis repository is only for learning GitHub Actions
+Tis repository is just to test GitHub Actions
+
